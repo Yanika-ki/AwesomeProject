@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361899976672",
+    "project_id": "tasklistapp-f1e6d",
+    "storage_bucket": "tasklistapp-f1e6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361899976672:android:9be9948178ff3ce63a6d85",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361899976672-6d7ikni4ogcut3dp8aqio042br1kfjfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1-V6XHOmruFCr1k-LvVdUNXm2kZQkCYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361899976672-6d7ikni4ogcut3dp8aqio042br1kfjfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
